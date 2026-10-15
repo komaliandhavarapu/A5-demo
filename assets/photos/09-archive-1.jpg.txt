@@ -1,0 +1,1 @@
+Add your own image named 09-archive-1.jpg in this folder. Keep the filename or update config.js.
