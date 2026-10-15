@@ -1,1 +1,0 @@
-Add your own image named 05-amor-2.jpg in this folder. Keep the filename or update config.js.

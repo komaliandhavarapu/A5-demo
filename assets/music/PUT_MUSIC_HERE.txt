@@ -1,1 +1,0 @@
-Place your licensed song here as our-song.mp3, or change musicPath in config.js.

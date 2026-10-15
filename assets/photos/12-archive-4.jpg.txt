@@ -1,1 +1,0 @@
-Add your own image named 12-archive-4.jpg in this folder. Keep the filename or update config.js.
